@@ -53,7 +53,7 @@ nav a, .cart-icon {
 }
 
 #cart-count {
-  background: #e74c3c;
+  background: #BF92E4;
   color: white;
   border-radius: 50%;
   width: 20px;
@@ -215,4 +215,5 @@ button:hover {
   .product-card {
     width: 90%;
   }
+
 }
