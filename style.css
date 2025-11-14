@@ -82,6 +82,8 @@ section {
 
 section h2 {
     margin-bottom: 1.5rem;
+    justify-content: center;
+    text-align: center;
 }
 
 section h3 {
@@ -217,3 +219,4 @@ button:hover {
   }
 
 }
+
